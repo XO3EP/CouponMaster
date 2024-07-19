@@ -1,0 +1,160 @@
+.btn.btn-warning {
+  height: 46px;
+  min-width: 176px;
+  background-color: #ffd325;
+  border-radius: 0px;
+  padding: 11px;
+}
+.btn_lil {
+  height: 40px;
+  min-width: 40px;
+  background-color: #ffd325;
+  border-radius: 0px;
+  text-align: center;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.btn_round {
+  height: 40px;
+  min-width: 40px;
+  background-color: rgb(243, 243, 243);
+  box-shadow: rgb(84, 84, 84);
+  border: 1px;
+  border-radius: 100px;
+  text-align: center;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.glav_cont {
+  padding: 0px;
+  width: 100%;
+  max-width: 100%;
+  text-align: center;
+}
+.contacts {
+  background-color: #f2f2f2;
+  padding: 15px;
+  margin-top: 0px;
+}
+.krasnodar {
+  padding: 0px;
+}
+.piter {
+  width: 225px;
+}
+.hat {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.img_box {
+  width: 60px;
+  margin: 0px;
+}
+.str {
+  height: 60px;
+  width: 60px;
+  padding: 0px;
+}
+.info {
+  padding-left: 0px;
+}
+.str1 {
+  margin: 0px;
+  width: 250px;
+}
+.btn_img {
+  height: 20px;
+  width: 20px;
+}
+.btn_shop {
+  height: 40px;
+  min-width: 40px;
+  background-color: #ffd325;
+  border-radius: 0px;
+  text-align: center;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 200px;
+}
+.btn_search {
+  width: 40px;
+  border-radius: 0px;
+  height: 40px;
+  right: 30;
+  background-color: #ffd325;
+}
+.btn_more {
+  height: 40px;
+  min-width: 40px;
+  background-color: #ffd325;
+  border-radius: 0px;
+  border: 0px;
+  font-weight: bold;
+  text-align: center;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 150px;
+}
+.search_zip {
+  width: 420px;
+  margin: 0px;
+  border-radius: 0px;
+  height: 40px;
+}
+.zip_color {
+  background-color: #ffd325;
+}
+.grey_bg {
+  background-color: #f8f8f8;
+}
+.pad_l-5 {
+  padding-left: 0%;
+}
+.pad_r-5 {
+  padding-right: 0%;
+}
+.glav_w {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.nav {
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: bold;
+}
+.h_text {
+  text-align: left;
+}
+.img_box2 {
+  width: 600px;
+  height: 150;
+}
+.mt-10{
+  margin-top: 40px;
+}
+.mb-10{
+  margin-bottom: 40px;
+}
+.pb-10{
+  padding-bottom: 40px;
+}
+.gramoti{
+  width: 100px;
+  height: 100px;
+}
+.ml-btn{
+  margin-left: 650px;
+}
+.auth-form{
+  width: 35%;
+  padding: 30px;
+}
+
+.table{
+  width: 100%;
+}
