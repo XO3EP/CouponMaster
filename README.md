@@ -1,1 +1,1 @@
-<img src="img/other/diagram.jpg" alt="diagram"/>
+
